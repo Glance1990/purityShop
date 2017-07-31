@@ -1,0 +1,17 @@
+	font-family: 'PermianSansTypeface';
+
+	font-family: 'PermianSansTypefaceBold';
+
+	font-family: 'PermianSansTypefaceItalic';
+
+	font-family: 'PTSans';
+
+	font-family: 'PTSansBoldItalic';
+
+	font-family: 'PTSansBoldRegular';
+
+	font-family: 'PTSansItalic';
+
+
+
+Ref # 3218: Change in style.css
